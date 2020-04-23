@@ -1,0 +1,17 @@
+{
+  "expo": {
+   "name": "Corona",
+   "icon": "./assets/coronaIcon.png",
+   "version": "1.2.0",
+   "slug": "Corona",
+   "sdkVersion": "36.0.0",
+   "ios": {
+     "bundleIdentifier": "com.jay.Corona",
+     "buildNumber": "1.2.0"
+   },
+   "android": {
+     "package": "com.jay.Corona",
+     "versionCode": 1
+   }
+  }
+}
